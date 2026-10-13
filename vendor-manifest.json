@@ -1,0 +1,100 @@
+[
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "LICENSE",
+    "local": "vendor/baoyu-translate/LICENSE",
+    "sha256": "601839401f6ce68b7a8aec0f7ba247ab8ef0848113378220bec4b2615cc84ee7"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/SKILL.md",
+    "local": "vendor/baoyu-translate/SKILL.md",
+    "sha256": "772f7170a61f1246d7505c97539579bb4d055f21653462e8cfaaddc65a3a5b31"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/references/config/extend-schema.md",
+    "local": "vendor/baoyu-translate/references/config/extend-schema.md",
+    "sha256": "ba3677cf40bb5063f450927b4fcde2f361a832e6a8632604a270df8372884593"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/references/glossary-en-zh.md",
+    "local": "vendor/baoyu-translate/references/glossary-en-zh.md",
+    "sha256": "3e74ef5c6bcbd6f62bc91445000f5485d613ca4f13cab647f6ce450a796a5033"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/references/refined-workflow.md",
+    "local": "vendor/baoyu-translate/references/refined-workflow.md",
+    "sha256": "146d074b59f42a68578a9e62afaa68507598e58b09a51ac3db486245a3239550"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/references/config/first-time-setup.md",
+    "local": "vendor/baoyu-translate/references/config/first-time-setup.md",
+    "sha256": "a5c3541af360bc51a127836297032d270e49ea67152c8745e9ae537d561f8113"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/references/workflow-mechanics.md",
+    "local": "vendor/baoyu-translate/references/workflow-mechanics.md",
+    "sha256": "bea93ebaf1d8e39e535af8c713498705533a108f322644691b20566586495fcc"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/references/subagent-prompt-template.md",
+    "local": "vendor/baoyu-translate/references/subagent-prompt-template.md",
+    "sha256": "9eaa650ffc01b23dac555c78d9b202e73942f59cf1110b4018f54b1fb7ae478f"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/scripts/bun.lock",
+    "local": "vendor/baoyu-translate/scripts/bun.lock",
+    "sha256": "0c6a7e6e63e7ed889604fc25b8d3641d67560a57f95c088c835192a68a3f4886"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/scripts/package.json",
+    "local": "vendor/baoyu-translate/scripts/package.json",
+    "sha256": "043a4e579c33be1fb62920181596224ca2a3421d5d11ad0f7bd55b09b14e98b4"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/scripts/chunk.ts",
+    "local": "vendor/baoyu-translate/scripts/chunk.ts",
+    "sha256": "cadf822bce4de9c38f353112a45aa140a75b93ed02399bd6f7f7b5a120908db5"
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "path": "skills/baoyu-translate/scripts/main.ts",
+    "local": "vendor/baoyu-translate/scripts/main.ts",
+    "sha256": "8a5122ace7d84fcc67219d23f67972cfa8c7d35f6f60d08cc9423e80787fb959"
+  },
+  {
+    "repo": "yd1601970552-stack/html-reader-annotator",
+    "commit": "6c6d9ab13cd987cbdb1c39d678a74564fb007b40",
+    "path": "LICENSE",
+    "local": "assets/reader/LICENSE",
+    "sha256": "837253264b299bb63e521309cbef7cb4a9e206bbf934dcf39d50ddcc6dac8a14"
+  },
+  {
+    "repo": "yd1601970552-stack/html-reader-annotator",
+    "commit": "6c6d9ab13cd987cbdb1c39d678a74564fb007b40",
+    "path": "index.html",
+    "local": "assets/reader/index.html",
+    "sha256": "ce4b3c0ac76dd3008d84809e9868187e7d46ebe3c49298b89fd8d9fac13dbf7f"
+  }
+]

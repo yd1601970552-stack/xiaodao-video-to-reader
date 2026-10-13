@@ -1,0 +1,31 @@
+{
+  "title": "自创演示：从一个问题开始学习",
+  "url": "https://www.youtube.com/watch?v=DEMO1234567",
+  "notes": [
+    "此为自创句子演示，视频网址为占位符，不代表真实播客。"
+  ],
+  "sections": [
+    {
+      "title": "让工具帮助你行动",
+      "paragraphs": [
+        {
+          "speaker": "演示说话人",
+          "source_ids": [
+            1
+          ],
+          "en": "A useful tool helps you take the next step.",
+          "zh": "好用的工具，能帮你迈出下一步。"
+        },
+        {
+          "speaker": "演示说话人",
+          "source_ids": [
+            2
+          ],
+          "en": "Start with one question, and write down what you learn.",
+          "zh": "先带着一个问题去学，再把收获记下来。"
+        }
+      ]
+    }
+  ],
+  "original_title": "Original demo: Learn with one question"
+}
